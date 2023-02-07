@@ -1,0 +1,10 @@
+project:
+  type: book
+  output-dir: books
+
+book:
+  title: "Analytics Edge"
+  author: "Krishna Kalyan"
+  date: "2/7/2023"
+  chapters:
+    - index.qmd
